@@ -1,0 +1,160 @@
+@import
+url("https://fonts.googleapis.com/css2?family=roboto&display=swap");
+*{
+    box_sizing:border_box;
+    margin: 0;
+    padding:0;
+             font_family:"Roboto"
+sons_serif;
+scroll_behavior: smooth; 
+
+}
+
+*logo{
+    widh:auto;
+    cursor:pointer;
+    margin:12px 24px;
+    padding:8px 16pcx;
+    background_color: whitte;
+    color:#162783;
+    font_size:2em;
+    border_radius:50%;
+ }
+ 
+ * nav_bar_item{
+     list_style:none;
+     display:flex;
+ }
+ *nav_bar li{
+     padding:16px 32px;
+ }
+ *nav_bar_items li {
+     font_,weight:700;
+ }
+ a{
+     text_decoration:none;
+     color:white;}
+ }
+ 
+ *content{
+     max_widh:120px;
+     margin:auto;
+     margin_bottom:290px;
+     }
+     
+ *profile_container{
+     display:flex;
+     justifly_content:space_between;
+     align_items:center;
+     padding_top:140px;
+     margin:01.5 %;
+  }
+ #profile_picture{
+     hieght:300 px;
+     object_fit:cover;
+     border_radius:50%;
+ }
+ .title_1{
+     margin:24 px 0px;
+     font-size:25 em;
+     font_weight:700;
+     color:#162783;
+ }
+ .subtitle{
+     font_size:1.25 em;
+     line_hight:1.4;
+     margin:24px 0;
+ }
+ 
+ #bio{
+     margin_left:96px;
+ }
+
+.sosial_media_containet a {
+    margin_right:16 px;
+}
+hr{
+    margin:32 px 15%
+
+}
+.portfolio_card{
+    widh:79%;
+    display:flex;
+    align_items:center;
+    justify_container:space_between;
+    margin:16px 1.5%;
+    background_color:white;
+    border_radius:16 px;
+    box_shadow:0px 0px 20px 0px rgba(0,0,0.3);
+  }
+  .portfolio_picture{
+      hieght:250 px;
+      widh:40%
+      border_radius;16 px;
+      objct_fit: cover;
+  }
+  .portfolio_card div{
+      wudh:60%
+      margin_left:16 px;
+      margin_right:16px;
+  }
+ .title_2{
+      padding_top:96 px;
+      margin_left_:1,5%;
+      font_size:1,5 em
+      color:#162783;
+      font_wieght:700;
+      
+  }
+  .title_3{
+  color:#162783
+  margin:16px 0px;
+  font_size:1.25 em;
+  font_wieght=700;
+  }
+  .description{
+      line_hieght: 1,5;
+  }
+  .skill_container{
+      
+  display:flex;
+  flex_wrap,wrap;
+  margin_bottom
+  :24 px;
+  }
+  .experience_card{
+      background_color:gray;
+      margin:32px 1,5%;
+      padding:16px;
+      background_color:white;
+      border_radius:16 px;
+      box_shadow: 0px 0px 20px 0px rgba(0,0,0,0.3);
+  }
+  .title_3{
+      color:#162783;
+      margin :16px 0px;
+      font_size:1,2 em;
+      font_weight:700 ;
+  }
+  .title_4{
+      font_size:1 em;
+      margin:8px 0px;
+  }
+  .description{
+      line_hieght:1,5;
+  }
+  .eduation_card{
+      flex:01 30%;
+      margin:16px 1.5%;
+      padding:16px 16 px;
+  }
+  footer{
+      text_align=center;
+      padding:82px;
+      background_color#162783;
+      color:white;
+  }
+      
+    
+  
+ 
